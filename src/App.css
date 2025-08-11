@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+img{
+  width: 850px;
+  height: 700;
+}
+
+h1{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #888;
+}

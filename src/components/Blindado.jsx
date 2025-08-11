@@ -1,16 +1,15 @@
 import Carroça from "./Carroça"
  
 function Blindado (){
-    const url = "https://static.wikia.nocookie.net/animeverso/images/c/c9/ReinerArmadura.png/revision/latest?cb=20240406002626&path-prefix=pt-br://www.pngplay.com/wp-content/uploads/12/Attack-Titan-Eren-PNG-Pic-Background.png"
- 
+   const url = "https://res.cloudinary.com/dolv3ryun/image/upload/v1732124651/dejjioy-cc9f318a-4ed3-4a53-9b00-a1f9859480ab_fv6vcx.webp"
     return (
-    <>
+   
         <div>
-         <h1>Titã de Atake</h1>
+          <h1>Titã Blindado</h1>
          <img src={url}></img>
          <Carroça/>
         </div>
-    </>
+    
   )
 }
  
